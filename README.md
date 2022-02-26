@@ -1,6 +1,6 @@
 # Heya, I'm Riley
 
-[![Website](https://img.shields.io/website?label=rileyhgrant.com&style=for-the-badge&url=http%3A%2F%2Frileyhgrant.com)](http://rileyhgrant.com)
+[![Website](https://img.shields.io/website?label=rileyhgrant.com&style=for-the-badge&url=http%3A%2F%2Frileyhgrant.com)](https://rileyhgrant.com)
 
 
 ## I'm a Hiker, Student, and Developer
