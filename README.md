@@ -10,7 +10,7 @@
 - In my free time I like to run, cook, and play Trumpet and Piano
 
 ## Connect with Me
-[<img align="left" alt="rileyhgrant.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://rileyhgrant.com)
+[<img align="left" alt="rileyhgrant.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rileyhgrant.com)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rileyhgrant/)
 
 <br />
