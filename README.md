@@ -5,7 +5,7 @@
 
 ## I'm a thru hiker, a developer, and a musician
 - I biked the 4,200 mile [TransAmerica Bike Trail](https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/transamerica-trail/) in 2022, thru hiked the entire 3,100 mile [Continental Divide Trail](https://continentaldividetrail.org/) in 2021, and thru hiked the whole 273 mile [Long Trail](https://en.wikipedia.org/wiki/Long_Trail) of Vermont in 2020
-- I've ran several marathons, multiple 50 mile ultramarathons, and have my first 100 mile ultramarathon scheduled!
+- I recently ran the [Vermont 100](https://en.wikipedia.org/wiki/Vermont_100_Mile_Endurance_Run), my first 100 mile foot race, I've also ran numerous 50 mile races, many more marathons, and raced [Unbound Gravel](https://en.wikipedia.org/wiki/Unbound_Gravel) on my trusty steel frame 2 speed.
 - I recieved my Masters in Computer Science from [Northeastern University](https://www.northeastern.edu/) in May 2022
 - In my free time I practice the piano and the trumpet
 
